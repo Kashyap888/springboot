@@ -1,1 +1,1 @@
-# springboot project thought in 15 day skill camp
+# springboot practice done in 15 days workshop organised by collage
